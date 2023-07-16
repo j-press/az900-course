@@ -85,7 +85,7 @@ const config = {
           },
           { to: '/docs/test', label: 'Test', position: 'left' },
           {
-            to: '/courses/azure/az900/intro',
+            to: '/courses/az900/intro',
             label: 'Azure AZ-900',
             position: 'left',
           },
